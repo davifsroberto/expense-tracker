@@ -15,7 +15,6 @@
     "github": "https://github.com/davifsroberto"
   },
   "license": "ISC",
-  "homepage": "[PENDENTE]",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
