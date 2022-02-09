@@ -1,6 +1,8 @@
 # Expense Tracker
 Hi, this project is just a reactjs training 😉
 
+Published in: [https://expense-tracker-davifsroberto.vercel.app](https://expense-tracker-davifsroberto.vercel.app)
+
 ## Available Scripts
 
 In the project directory, you can run:
